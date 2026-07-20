@@ -56,7 +56,7 @@ export default function BookingCard() {
       </button>
 
       <p className="mt-4 text-center text-sm text-gray-500">
-        You won't be charged yet
+        You will not be charged yet
       </p>
 
       {/* Price Details */}

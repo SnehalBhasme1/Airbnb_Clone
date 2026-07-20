@@ -10,7 +10,7 @@ export default function FeatureHighlights() {
             Dedicated workspace
           </h3>
           <p className="mt-1 text-[14px] text-gray-500">
-            A common area with Wi-Fi that's well suited for working.
+            A common area with Wi-Fi that is well suited for working.
           </p>
         </div>
       </div>
