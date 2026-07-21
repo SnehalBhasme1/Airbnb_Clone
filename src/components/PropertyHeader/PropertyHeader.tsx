@@ -22,6 +22,7 @@ export default function PropertyHeader() {
           {listing.reviews} reviews
         </button>
 
+       
         <span>·</span>
 
         <button className="underline hover:text-gray-600">
@@ -31,6 +32,7 @@ export default function PropertyHeader() {
 
       {/* Right */}
       <div className="flex items-center gap-4">
+
         <button className="flex items-center gap-2 rounded-lg px-2 py-2 hover:bg-gray-100">
           <Share size={16} />
           <span className="text-sm font-medium underline">
@@ -44,6 +46,7 @@ export default function PropertyHeader() {
             Save
           </span>
         </button>
+
       </div>
     </section>
   );
